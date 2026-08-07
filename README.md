@@ -3,8 +3,9 @@
 ## 1. Overview & Objectives
 * **Role:** SAP Material Management (MM) Intern
 * **Company:** Accenture
-* **Duration:** [Start Date] – [End Date]
-* **Core Focus:** [e.g., Master Data Management, Purchasing, Goods Receipt, System Testing]
+* **Duration:** January 27, 2026 – May 29, 2026
+* **Core Focus:** SAP end-to-end process |  SAP Supply Chain Management (SCM) | Material Management (MM)
+* **Setting:** First phase : self-paced learning, Fully online | Second phase : Laptop distribution & specialized track bootcamp, Fully Remote 
 
 ---
 
@@ -42,10 +43,36 @@
 
 ---
 
+## 📸 Treasured Pics
+
+### 
+## 📸 Visual Gallery & Internship Highlights
+
+<p align="center">
+  <img src="./AccentureBGCBuilding_SelfPic.jpg" width="350" alt="Rare Company Selfie"/><br>
+  <em>Matchy with the room color</em>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./SAPMMBootcamp_Final_Day_Picture.jpg" width="600" alt="SAP MM Bootcamp"/><br>
+  <em>Final Day of Bootcamp Pic</em>
+</p>
+
+---
+
+### Final Day & Project Presentation
+![Final Presentation](./images/presentation.jpg)
+*Presenting our capstone project insights during the final wrap-up session.*
+
+---
+
 ## Certifications & Badges
 
 ### 📜 Professional Certification
 * **[SAP Certified - Implementation Consultant - End-to-End Business Processes for SAP Business Suite](https://www.credly.com/badges/b0933ca5-a6ab-4af7-b00d-cab4b005dfe5)** *(Credly Verified)*
+
 ---
 
 ### 🏅 SAP Digital Badges 
@@ -58,5 +85,5 @@
 
 ---
 
-### 📄 Documented Certificates
+## 📄 Documented Certificates
 * **Certificate of Completion:** [Inventado_AccentureTechAcademy__Certificate of Completion](https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/Inventado_AccentureTechAcademy__Certificate%20of%20Completion.JPG)
