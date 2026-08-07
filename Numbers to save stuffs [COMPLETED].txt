@@ -1,0 +1,145 @@
+Purchase order number : 10000332
+My user number : N3158923
+RFQcreated under the number 6000000082
+Stabdard PO created under the number 4500000348
+Batch number 4500000348
+Material document 5000000536 posted
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+==================
+RUN # 2
+My user number : N3158923
+
+Purchase order number : 00100000347
+RFQcreated under the number 6000000093
+Stabdard PO created under the number 4500000363
+Batch number 4500000348 ... 733
+Material document 5000000552 posted
+
+Document No. 5105600345
+Quantity contract created under the number 4600000053
+Standard PO created under 4500000364
+Batch 0000000734 created
+Material document 5000000553 posted
+
+MODULE 14
+Scheduling Agreement created under the number 5500000050
+"" 5500000051 ---> this attempt worked
+Batch 0000000738 created
+Material document 5000000556 posted
+Document no. 5105600349 created (Blocked for payment)
+
+MODULE 15
+Purchase requisition number 00100000351 created
+""00100000352
+""0010000353 ---> This version works
+The Framework Order created under the number 4500000381 (from ME21N)
+Service entry sheet saved, acceptance document 5000000573 posted (from ML81N)
+Document no. 5105600364 (from MIRO)
+
+MODULE 16
+Standard PO Created under the number 4500000385 (from ME21N)
+Batch 0000000761 created (from MIGO), Material Document 4900001164 posted (from MIGO)
+Material document 4900001165 posted (from MIGO)
+Batch 0000000762 Created (from MIGO), Material document 5000000575 posted
+Document no. 5105600366 created (Blocked for payment)
+
+MODULE 17
+Standard PO created under the number 4500000389 (ME21N)
+Batch 0000000765 created (MIGO)
+Material Document 5000000579 posted (MIGO)
+Material document 4900001166 posted (MIGO)
+
+MODULE 18
+Standard PO created under the number 4500000390 (ME21N)
+Batch 0000000766 (VL31N), Inbound delivery 18000045 has been saved (VL31N)
+Goods receipt for inbound delivery 180000045 posted (material document 5000000580) (VL32N)
+Document no. 5105600370 created (Blocked for payment) (MIRO)
+
+MODULE19
+Standard PO created under the number 4500000391 (ME21N)
+Batch 0000000767 created [but irrelevant] (MIGO)
+Material document 5000000581 posted (MIGO)
+Document no. 5105600371 created (Blocked for payment) (MIRO)
+
+MODULE 20
+Batch 0000000768 created (MIGO), Material document 4900001167 posted (MIGO)
+Material document 4900001168 posted (MIGO)
+
+MODULE 21
+Batch 0000000770 created (MIGO), Material document 4900001170 posted (MIGO)
+Material document 4900001171 posted (MIGO)
+
+MODULE 22
+Batch 0000000771 created (MIGO), Material Document 4900001172 posted (MIGO)
+Document 0000000607 posted (MB21)
+Material document 4900001173 was posted (MIGO)
+Material document 4900001174 posted (MIGO)
+
+MODULE 23
+Batch 0000000773 created (MIGO), Material document 4900001175 posted (MIGO)
+Material document 4900001176 posted (MIGO)
+
+MODULE 24
+Batch 0000000777 created (MIGO), Material document 4900001184 (MIGO)
+Material document 49001185 posted (MIGO)
+Material document 4900001186 has been posted (MIGO)
+
+MODULE 25
+Batch 0000000778 created (MIGO), Material document 4900001187 posted (MIGO)
+Material document 4900001188 posted (MIGO)
+Material document 4900001189 posted (MIGO)
+
+MODULE 26
+Batch 0000000790 created (MIGO), Material document 4900001211 posted (MIGO)
+Material document 4900001212 posted (MIGO)
+
+MODULE 27
+Batch 0000000791 created (MIGO), Material document 4900001213 posted (MIGO)
+Material document 4900001214 posted (MIGO)
+Material document 4900001215 posted (MIGO)
+
+MODULE 28
+Batch 0000000792 created (MIGO), Material document 4900001216 posted (MIGO)
+Material document 4900001217 posted
+
+MODULE 29
+Batch 0000000793 created (MIGO), Material document 4900001218 posted (MIGO)
+Material document 4900001219 posted (MIGO)
+
+MODULE 30
+Batch 0000000794 created (MIGO), Material document 4900001220 posted (MIGO)
+Material document 4900001221 posted (MIGO)
+Material document 4900001222 posted (MIGO)
+
+MODULE 31
+Batch 0000000795 created (MIGO), Material document 4900001223 posted (MIGO)
+Material document 4900001224 posted (MIGO)
+Material document 4900001225 posted (MIGO)
+
+MODULE 32
+Order number 1000220 saved
+Batch 0000000796 created (MIGO), Material document 5000000586 posted (MIGO)
+
+MODULE 33
+Batch 0000000797 created (MIGO), Material document 4900001226 posted (MIGO)
+Stock Transp. Order created under the number 4500000396 (ME21N)
+Material document 4900001227 posted (MIGO)
+Material document 5000000587 posted (MIGO)
+
+MODULE 34
+Batch 0000000798 created (MIGO), Material document 4900001228 posted (MIGO)
+STO with Delivery created under the number 4500000397 (ME21N)
+outbound delivery number 80000043 (SD document)
+Replenishment Dlv. 80000043 saved, material document 4900001229 created (VL02N)
+Material document 5000000588 posted (MIGO)
+
+MODULE 35
+Batch 0000000799 created (MIGO), Material document 4900001230 posted (MIGO)
+Physical inventory document 100000190 created (MI01)
+Count entered for phys. inv. doc. 100000190 (MI04)
+Diffs in phys. inv. doc. 100000190 posted with m. doc. 4900001231 (MI07)
+Physical inventory document 100000191 created  (MI01)
+Count entered for phys. inv. doc. 100000191 (MI04)
+Diffs in phys. inv. doc. 100000191 posted with m. doc. 4900001232 (MI07)
+
+MODULE 36
