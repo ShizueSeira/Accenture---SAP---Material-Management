@@ -56,6 +56,19 @@
 * **Key Lessons Learned:** [What you learned about enterprise software, consulting, or personal productivity]
 
 ---
+## 6. Final Day Presentation (3rd to 4th week of May)
+![Final Presentation](https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/DemoSamplePic_AccentureBootcamp.jpg)
+<p align="center"><em>A preview of how the final demo works.</em></p>
+
+Our final task after completion of self-paced modules as well the bootcamp discussions, we have to live demonstrate to our mentors Sir Bembol and Sir Jemuel the four core basic processes in SAP MM (Purchase Requisition, Purchase Order, Goods Receipt, and Invoice Verification).
+
+Was a little nervous, as I was one of the first ones to do the demo, I was trying my best to remain executing the right processes and commands, and thankfully we persevered hahaha, and what we left was to support my fellow delegates into completing their demos too.
+
+> 📊 **Proof of Execution**  
+> Proof of generated SAP transaction IDs here sample:  
+> [**Inventado - Demo IDs.xlsx**](https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/Inventado%20-%20Demo%20IDs.xlsx)
+
+---
 
 ## 📸 Internship Highlights Pics
 
@@ -94,13 +107,6 @@
   <img src="./DangIWantAccentureID_Accenture.jpg" width="600" alt="I don't have Accenture ID"/><br>
   <em>We need a visitor pass to enter Accenture floors</em>
 </p>
-
----
-
-### Final Day & Project Presentation
-![Final Presentation](./images/presentation.jpg)
-*Our final task after completion of self-paced modules as well the bootcamp discussions, we have to live demonstrate to our mentors Sir Bembol and Sir Jemuel the four core basic processes in SAP MM <List that 4>*
-Was a little nervous, as I was one of the first ones to do the demo, I was trying my best to remain executing the right processes and commands, and thankfully we persevered hahaha, and what we left was to support my fellow delagates into completing their demos too.
 
 ---
 
