@@ -49,12 +49,6 @@
 
 > Configuration was a matter of following instructions, understand those clear and you can go flow smoothly to complete the config process.
 
-<p align="center">
-  <img src="./OuchGoingBack_Accenture.jpg" width="600" alt="Phase 1 Challenge / Retaking Experience"/><br>
-</p>
-
-[Write your description here regarding your experience or challenges encountered during Phase 1 self-paced learning]
-
 ### Phase 2: Specialized SAP MM Track & Remote Bootcamp (March – May)
 * **Track Specialization:** Officially transitioned into the specialized SAP Material Management (MM) track, executing real-world enterprise scenarios on our newly configured enterprise laptops.
 * **Live Bootcamp Sessions:** Participated in fully remote, mentor-led bootcamp discussions and deep dives focused on procurement workflows, inventory management, and system navigation.
@@ -72,10 +66,15 @@
 ## 📸 Phase 2 Experience & Learning Setup
 
 <p align="center">
+  <img src="./OuchGoingBack_Accenture.jpg" width="600" alt="Phase 1 Challenge / Retaking Experience"/><br>
+</p>
+
+That one time when I thought we were already done with configuring our working laptops, turns out it was not confirming when we were on the ground already so we decided to not turn back. SO unfortunately, the following week I have to go back in BGC to comply to complete the config process.
+<p align="center">
   <img src="./SAPModulesSelfPaced_Accenture.jpg" width="600" alt="SAP Modules Self Paced"/><br>
 </p>
 
-[Write your description here regarding your experience with the SAP self-paced modules in Phase 2]
+The SAP GUI guides us thru a series of modules, whereas most modules involves after reading have a short quiz or enumeration of the correct sequential steps (ranging from 4-7 steps) on which can be sometimes feel repetetive but that is what we have should been used to, to execute commands you feel like a muscle memory without any hesitations on mind. Sometimes short quizzes can be brute forced as well, tough reading is valuable as knowledge I retain can be applied 
 
 <br>
 
