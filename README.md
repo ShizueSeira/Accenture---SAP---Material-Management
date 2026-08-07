@@ -43,23 +43,41 @@
 
 ---
 
-## 📸 Treasured Pics
-
-### 
-## 📸 Visual Gallery & Internship Highlights
+## 📸 Internship Highlights Pics
 
 <p align="center">
   <img src="./AccentureBGCBuilding_SelfPic.jpg" width="350" alt="Rare Company Selfie"/><br>
-  <em>Matchy with the room color</em>
+  <em>Matchy with the room color @ Accenture BGC Taguig</em>
 </p>
 
 <br>
 
 <p align="center">
   <img src="./SAPMMBootcamp_Final_Day_Picture.jpg" width="600" alt="SAP MM Bootcamp"/><br>
-  <em>Final Day of Bootcamp Pic</em>
+  <em>Final Day of Bootcamp Pic @ Online</em>
 </p>
 
+## 📸 Random Internship Journey Pics
+
+<p align="center">
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/MeAndFriends_Accenture.jpg" width="600" alt="Pic with friends setting-up their laptops too"/><br>
+  <em>Laptop set-up with fellow UST friends</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/LaptopSetUp_Accenture.jpg" width="600" alt="Almost Complete Laptop Set-up"/><br>
+  <em>Laptop Set-up</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/MeAndMyLaptop_Accenture.jpg" width="600" alt="Top view of laptop with me"/><br>
+  <em>Me and my laptop</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/DangIWantAccentureID_Accenture.jpg" width="600" alt="I don't have Accenture ID"/><br>
+  <em>We need a visitor pass to enter Accenture floors</em>
+</p>
 ---
 
 ### Final Day & Project Presentation
