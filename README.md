@@ -30,8 +30,10 @@
 
 ### Personal Reflection
 > Personally I did not experience this kind of problem, I do always regularly check my accenture emails regularly weekly (and not get an inactivity status that can possibly lock out the laptop too). Made sure that I do not miss any requirements mentioned by the accenture HRs as well from our mentions before a mentioned deadline.
+
 > Configuration was a matter of following instructions, understand those clear and you can go flow smoothly to complete the config process.
-> Write about your initial setup phase, learning curves, and first impressions of the team and platform.
+
+> Almost close to no issues regards to laptop, just that one time I lose my charger in UST library once, and I have to resort to alternatives such as thunderbolt charger that works (charges slowly, but enough voltage to increase the percentage) for weeks then of course I have to buy a charger to avoid lose peripheral fees. I have to go Gilmore to ensure I can buy one, got a deal worth 900 bye money. Thankfully, the new laptop charger was accepted on my returning of laptop, then by then become finally done with the internship with Accenture.
 
 ---
 
