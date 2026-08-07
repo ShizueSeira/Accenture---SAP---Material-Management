@@ -4,7 +4,7 @@
 * **Role:** SAP Material Management (MM) Intern
 * **Company:** Accenture
 * **Duration:** January 27, 2026 – May 29, 2026
-* **Core Focus:** SAP end-to-end process |  SAP Supply Chain Management (SCM) | Material Management (MM)
+* **Core Focus:** SAP end-to-end process | SAP Supply Chain Management (SCM) | Material Management (MM)
 * **Setting:** First phase : self-paced learning, Fully online | Second phase : Laptop distribution & specialized track bootcamp, Fully Remote 
 
 ---
@@ -13,6 +13,20 @@
 ### Key Learnings
 * Overview of SAP ERP architecture and navigating the SAP GUI.
 * Core concepts of Material Management: Organization Structures (Plant, Storage Location, Purchasing Org).
+
+### Laptop Onboarding & Device Compliance Challenges
+* **Onboarding & Setup:** Around early March, joined my UST batchmates during the in-person laptop distribution phase at the BGC office to configure our enterprise devices, security compliances, VPN tools, and the SAP GUI installation.
+* **Compliance Issues:** Thru March to May, a major hurdle for many of my fellow delegates was maintaining **device compliance status**. Several friends faced non-compliant status triggers, on which most do not understand how they got such issues.
+* **Resolution:** My classmates pushed into raising their concern into team members and local IT support to troubleshoot to clear non-compliant flags to secure full SAP system access. Some cases took days and sometimes a few weeks, which I felt a huge hurdle into completing their weekly designated tasks.
+
+## 📸 Captured Laptop Issues
+
+<p align="center">
+  <img src="./Issue1_AccentureLaptop.jpg" width="220" alt="Issue 1"/>
+  <img src="./Issue2_AccentureLaptop.jpg" width="220" alt="Issue 2"/>
+  <img src="./Issue3_AccentureLaptop.jpg" width="220" alt="Issue 3"/><br>
+  <em>Accenture Laptop Setup Issues (Windows Hello, Account Disabled, and Resource Access)</em>
+</p>
 
 ### Personal Reflection
 > Write about your initial setup phase, learning curves, and first impressions of the team and platform.
@@ -57,27 +71,30 @@
   <em>Final Day of Bootcamp Pic @ Online</em>
 </p>
 
+---
+
 ## 📸 Random Internship Journey Pics
 
 <p align="center">
-  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/MeAndFriends_Accenture.jpg" width="600" alt="Pic with friends setting-up their laptops too"/><br>
+  <img src="./MeAndFriends_Accenture.jpg" width="600" alt="Pic with friends setting-up their laptops too"/><br>
   <em>Laptop set-up with fellow UST friends</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/LaptopSetUp_Accenture.jpg" width="600" alt="Almost Complete Laptop Set-up"/><br>
+  <img src="./LaptopSetUp_Accenture.jpg" width="600" alt="Almost Complete Laptop Set-up"/><br>
   <em>Laptop Set-up</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/MeAndMyLaptop_Accenture.jpg" width="600" alt="Top view of laptop with me"/><br>
+  <img src="./MeAndMyLaptop_Accenture.jpg" width="600" alt="Top view of laptop with me"/><br>
   <em>Me and my laptop</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/DangIWantAccentureID_Accenture.jpg" width="600" alt="I don't have Accenture ID"/><br>
+  <img src="./DangIWantAccentureID_Accenture.jpg" width="600" alt="I don't have Accenture ID"/><br>
   <em>We need a visitor pass to enter Accenture floors</em>
 </p>
+
 ---
 
 ### Final Day & Project Presentation
