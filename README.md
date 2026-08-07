@@ -99,7 +99,8 @@
 
 ### Final Day & Project Presentation
 ![Final Presentation](./images/presentation.jpg)
-*Presenting our capstone project insights during the final wrap-up session.*
+*Our final task after completion of self-paced modules as well the bootcamp discussions, we have to live demonstrate to our mentors Sir Bembol and Sir Jemuel the four core basic processes in SAP MM <List that 4>*
+Was a little nervous, as I was one of the first ones to do the demo, I was trying my best to remain executing the right processes and commands, and thankfully we persevered hahaha, and what we left was to support my fellow delagates into completing their demos too.
 
 ---
 
