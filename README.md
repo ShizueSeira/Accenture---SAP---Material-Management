@@ -18,7 +18,7 @@
 ### Phase 1: Self-Paced SAP Foundations (Late Junuary – February)
 * **Personal Laptop Setup:** Spent the initial phase from late January through February focusing on foundational knowledge using my personal computer.
 * **Self-Paced Learning Modules:** Completed online coursework covering general SAP ERP architectures and end-to-end business processes.
-* **Certifications & Badges Progress:** Worked through self-study materials that laid the groundwork for earning preliminary SAP digital badges and course completion milestones provided by Accenture before transitioning to hands-on system configurations thru specialized tracks. *(See full some of the courses in the list in the [Certifications & Badges](#certifications--badges) section below).*
+* **Certifications & Badges Progress:** Worked through self-study materials that laid the groundwork for earning preliminary SAP digital badges and course completion milestones provided by Accenture before transitioning to hands-on system configurations thru specialized tracks. *(See full some of the courses in the list in the [Certifications & Badges](#certifications-badges--completed-courses) section below).*
 
 ## SAP Learning Platform Taken Courses for Phase 1
 
