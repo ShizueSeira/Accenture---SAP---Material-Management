@@ -16,8 +16,15 @@
 
 ### Phase 1: Self-Paced SAP Foundations (Late Junuary – February)
 * **Personal Laptop Setup:** Spent the initial phase from late January through February focusing on foundational knowledge using my personal computer.
-* **Self-Paced Learning Modules:** Completed online coursework covering general SAP ERP architectures, end-to-end business processes, and core supply chain fundamentals.
-* **Certifications & Badges Progress:** Worked through self-study materials that laid the groundwork for earning preliminary SAP digital badges and course completion milestones before transitioning to hands-on system configurations.
+* **Self-Paced Learning Modules:** Completed online coursework covering general SAP ERP architectures and end-to-end business processes.
+* **Certifications & Badges Progress:** Worked through self-study materials that laid the groundwork for earning preliminary SAP digital badges and course completion milestones provided by Accenture before transitioning to hands-on system configurations thru specialized tracks. *(See full some of the courses in the list in the [Certifications & Badges](#certifications--badges) section below).*
+
+## SAP Learning Platform Taken Courses for Phase 1
+
+<p align="center">
+  <img src="./AccomplishedCourses1_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 1"/><br><br>
+  <em>SAP Learning modules completion for phase 1</em>
+</p>
 
 ### Laptop Onboarding & Device Compliance Challenges (Early March)
 * **Onboarding & Setup:** Joined my UST batchmates during the in-person laptop distribution phase at the BGC office to configure our enterprise devices, security compliances, VPN tools, and the SAP GUI installation.
@@ -44,6 +51,15 @@
 * **Track Specialization:** Officially transitioned into the specialized SAP Material Management (MM) track, executing real-world enterprise scenarios on our newly configured enterprise laptops.
 * **Live Bootcamp Sessions:** Participated in fully remote, mentor-led bootcamp discussions and deep dives focused on procurement workflows, inventory management, and system navigation.
 * **Hands-On Configuration:** Applied theoretical knowledge directly in the SAP GUI, practicing core transaction codes and end-to-end supply chain processes under guidance from mentors.
+
+## SAP Learning Platform Taken Courses for Phase 2
+
+<p align="center">
+  <img src="./AccomplishedCourses2_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 2"/><br><br>
+  <img src="./AccomplishedCourses3_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 3"/><br><br>
+  <img src="./AccomplishedCourses4_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 4"/><br><br>
+  <em>SAP Learning modules completion for phase 2</em>
+</p>
 ---
 
 ## 3. Core Technical Exposure & Tasks
