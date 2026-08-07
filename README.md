@@ -29,6 +29,8 @@
 </p>
 
 ### Personal Reflection
+> Personally I did not experience this kind of problem, I do always regularly check my accenture emails regularly weekly (and not get an inactivity status that can possibly lock out the laptop too). Made sure that I do not miss any requirements mentioned by the accenture HRs as well from our mentions before a mentioned deadline.
+> Configuration was a matter of following instructions, understand those clear and you can go flow smoothly to complete the config process.
 > Write about your initial setup phase, learning curves, and first impressions of the team and platform.
 
 ---
