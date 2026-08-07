@@ -15,10 +15,11 @@
 * **End-to-End Procurement Process:** Gained hands-on exposure to the core Procure-to-Pay (P2P) cycle: creating Purchase Requisitions (PR), issuing Purchase Orders (PO), processing Goods Receipts (GR), and performing Invoice Verification (IV).
 * **Master Data Management:** Working with Material Master and Vendor Master records to ensure proper data maintenance for supply chain operations.
 * **Enterprise Security & System Diagnostics:** Basic IT troubleshooting regarding VPN access, Windows security compliance, and system credentials within a corporate IT ecosystem.
-### Phase 1: Self-Paced SAP Foundations (Late Junuary – February)
+
+### Phase 1: Self-Paced SAP Foundations (Late January – February)
 * **Personal Laptop Setup:** Spent the initial phase from late January through February focusing on foundational knowledge using my personal computer.
 * **Self-Paced Learning Modules:** Completed online coursework covering general SAP ERP architectures and end-to-end business processes.
-* **Certifications & Badges Progress:** Worked through self-study materials that laid the groundwork for earning preliminary SAP digital badges and course completion milestones provided by Accenture before transitioning to hands-on system configurations thru specialized tracks. *(See full some of the courses in the list in the [Certifications & Badges](#certifications-badges--completed-courses) section below).*
+* **Certifications & Badges Progress:** Worked through self-study materials that laid the groundwork for earning preliminary SAP digital badges and course completion milestones provided by Accenture before transitioning to hands-on system configurations thru specialized tracks. *(See full list of courses in the [Certifications, Badges & Completed Courses](#certifications-badges--completed-courses) section below).*
 
 ## SAP Learning Platform Taken Courses for Phase 1
 
@@ -41,12 +42,10 @@
   <em>Accenture Laptop Setup Issues (Windows Hello, Account Disabled, and Resource Access)</em>
 </p>
 
-### Personal Reflection
+### Phase 1 Personal Reflection
 > Personally I did not experience this kind of problem, I do always regularly check my accenture emails regularly weekly (and not get an inactivity status that can possibly lock out the laptop too). Made sure that I do not miss any requirements mentioned by the accenture HRs as well from our mentions before a mentioned deadline.
 
 > Configuration was a matter of following instructions, understand those clear and you can go flow smoothly to complete the config process.
-
-> Almost close to no issues regards to laptop, just that one time I lose my charger in UST library once, and I have to resort to alternatives such as thunderbolt charger that works (charges slowly, but enough voltage to increase the percentage) for weeks then of course I have to buy a charger to avoid lose peripheral fees. I have to go Gilmore to ensure I can buy one, got a deal worth 900 bye money. Thankfully, the new laptop charger was accepted on my returning of laptop, then by then become finally done with the internship with Accenture.
 
 ### Phase 2: Specialized SAP MM Track & Remote Bootcamp (March – May)
 * **Track Specialization:** Officially transitioned into the specialized SAP Material Management (MM) track, executing real-world enterprise scenarios on our newly configured enterprise laptops.
@@ -61,6 +60,39 @@
   <img src="./AccomplishedCourses4_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 4"/><br><br>
   <em>SAP Learning modules completion for phase 2</em>
 </p>
+
+## 📸 Phase 2 Experience & Learning Setup
+
+<p align="center">
+  <img src="./SAPModulesSelfPaced_Accenture.jpg" width="600" alt="SAP Modules Self Paced"/><br>
+</p>
+
+[Write your description here regarding your experience with the SAP self-paced modules in Phase 2]
+
+<br>
+
+<p align="center">
+  <img src="./InstructionPDFs_Accenture.jpg" width="600" alt="Instruction PDFs"/><br>
+</p>
+
+[Write your description here regarding how you used the instruction PDFs and guides provided during the bootcamp]
+
+<br>
+
+<p align="center">
+  <img src="./SmartTaking_Accenture.jpg" width="600" alt="Smart Note Taking"/><br>
+</p>
+
+[Write your description here regarding your smart note-taking strategies and how you organized information]
+
+<br>
+
+### Phase 2 Personal Reflection
+
+> Sir Bembol and Sir JM, as our SCM track advisers are very accomodating and patient into answering our inquiries in the bootcamp phase. They do really persuade us to focus on what they are teaching, the steps what we can say is intricate for us who has just recently tried SAP they did execute flawlessly. Even them can make them mistakes on process, but what makes them good really comes with the way they test and debug what is going on, and still able to explain to us what they have shouldn't and should have do. Countless recitations, of course our number could be counted by hand (always around 10) so there is been high familiarity between us. Honestly I was one of the most called students hahaha, Sir Bembol always do remember me I'll miss him. (thankfully he deserved going to better opportunities now outside from Accenture, proud of Sir!)
+
+> Almost close to no issues regards to laptop, just that one time I lose my charger in UST library once, and I have to resort to alternatives such as thunderbolt charger that works (charges slowly, but enough voltage to increase the percentage) for weeks then of course I have to buy a charger to avoid lose peripheral fees. I have to go Gilmore to ensure I can buy one, got a deal worth 900 bye money. Thankfully, the new laptop charger was accepted on my returning of laptop, then by then become finally done with the internship with Accenture.
+
 ---
 
 ## 3. Core Technical Exposure & Tasks
