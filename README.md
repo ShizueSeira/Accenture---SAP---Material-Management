@@ -11,9 +11,10 @@
 
 ## 2. Onboarding & Systems Training
 ### Key Learnings
-* Overview of SAP ERP architecture and navigating the SAP GUI.
-* Core concepts of Material Management: Organization Structures (Plant, Storage Location, Purchasing Org).
-
+* **SAP ERP Architecture & Foundations:** Navigating the SAP GUI, understanding enterprise structures (Client, Company Code, Plant, Storage Location, Purchasing Organization), and mastering basic transaction codes (T-Codes).
+* **End-to-End Procurement Process:** Gained hands-on exposure to the core Procure-to-Pay (P2P) cycle: creating Purchase Requisitions (PR), issuing Purchase Orders (PO), processing Goods Receipts (GR), and performing Invoice Verification (IV).
+* **Master Data Management:** Working with Material Master and Vendor Master records to ensure proper data maintenance for supply chain operations.
+* **Enterprise Security & System Diagnostics:** Basic IT troubleshooting regarding VPN access, Windows security compliance, and system credentials within a corporate IT ecosystem.
 ### Phase 1: Self-Paced SAP Foundations (Late Junuary – February)
 * **Personal Laptop Setup:** Spent the initial phase from late January through February focusing on foundational knowledge using my personal computer.
 * **Self-Paced Learning Modules:** Completed online coursework covering general SAP ERP architectures and end-to-end business processes.
@@ -140,20 +141,41 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
 
 ---
 
-## Certifications & Badges
+## Certifications, Badges & Completed Courses
 
-### 📜 Professional Certification
+### 📜 Professional Certification & Phase 1 Verified Credentials
 * **[SAP Certified - Implementation Consultant - End-to-End Business Processes for SAP Business Suite](https://www.credly.com/badges/b0933ca5-a6ab-4af7-b00d-cab4b005dfe5)** *(Credly Verified)*
+
+#### 🏅 Phase 1 SAP Digital Badges
+* **[Exploring End-to-End Business Processes in SAP Business Suite](https://badger.learning.sap.com/verify/xekop-cecon-nenyg-hyged-tamuc)**
+* **[Managing Clean Core for SAP Cloud ERP](https://badger.learning.sap.com/verify/xedog-gagik-haheh-rifym-gicyp)**
+
+#### 📚 Phase 1 Completed Learning Modules (Non-Badged)
+* Discovering the Persona View of the SAP Business Suite Buying Centers
+* Introducing SAP's Core Business Processes, SAP for Industries and the SAP Partner Network
+* [Executing Basic ERP Processes with SAP S/4HANA](https://learning.sap.com/courses/executing-basic-erp-processes-with-sap-s-4hana)
 
 ---
 
-### 🏅 SAP Digital Badges 
-* **[Applying Supply Chain Execution in SAP S/4HANA Cloud Private Edition](https://www.credly.com/badges/5e688eb8-b10a-4d61-9199-af968221a31d)** 
-* **[Managing Clean Core for SAP Cloud ERP](https://badger.learning.sap.com/verify/xedog-gagik-haheh-rifym-gicyp)**
-* **[Exploring End-to-End Business Processes in SAP Business Suite](https://badger.learning.sap.com/verify/xekop-cecon-nenyg-hyged-tamuc)**
-* **[Procurement Process Overview](https://badger.learning.sap.com/verify/xafes-berir-pimid-pytyn-kiluk)**
+### 🏅 Phase 2 SAP Digital Badges
+* **[Applying Supply Chain Execution in SAP S/4HANA Cloud Private Edition](https://www.credly.com/badges/5e688eb8-b10a-4d61-9199-af968221a31d)**
 * **[Configuring Supply Chain Business Scenarios in SAP S/4HANA Cloud Public Edition](https://badger.learning.sap.com/verify/xivep-byrep-gakem-bafyd-vemov)**
+* **[Procurement Process Overview](https://badger.learning.sap.com/verify/xafes-berir-pimid-pytyn-kiluk)**
 * **[Experiencing Supply Chain Business Scenarios in SAP S/4HANA Cloud Public Edition](https://badger.learning.sap.com/verify/xuvom-sigat-furop-pudud-pufuc)**
+
+#### 📚 Phase 2 Completed Learning Modules (Non-Badged)
+* [Discovering the Basics of SAP S/4HANA Manufacturing](https://learning.sap.com/courses/discovering-the-basics-of-s-4hana-manufacturing)
+* [Exploring Business Processes in SAP S/4HANA Production Planning](https://learning.sap.com/courses/exploring-business-processes-in-sap-s-4hana-production-planning)
+* [Detailing Service Purchasing and Recording](https://learning.sap.com/courses/detailing-service-purchasing-and-recording)
+* [Exploring SAP Cloud ERP](https://learning.sap.com/courses/exploring-sap-cloud-erp)
+* [Detailing Sourcing and Contract Management](https://learning.sap.com/courses/detailing-sourcing-and-contract-management)
+* [Detailing Subcontracting and Supplier Consignment](https://learning.sap.com/courses/detailing-subcontracting-and-supplier-consignment)
+* [Accessing Sourcing and Procurement Data](https://learning.sap.com/courses/accessing-sourcing-and-procurement-data)
+* [Detailing Intelligent Procurement and Procurement Analytics](https://learning.sap.com/courses/detailing-intelligent-procurement-and-procurement-analytics)
+* [Detailing Procurement of Direct Materials](https://learning.sap.com/courses/detailing-procurement-of-direct-materials)
+* [Detailing Requisitioning and Consumable Purchasing](https://learning.sap.com/courses/detailing-requisitioning-and-consumable-purchasing)
+* [Describing the Foundations for Sourcing and Procurement](https://learning.sap.com/courses/describing-the-foundations-for-sourcing-and-procurement)
+* [Implementing SAP S/4HANA Cloud Public Edition](https://learning.sap.com/courses/implementing-sap-s-4hana-cloud-public-edition)
 
 ---
 
