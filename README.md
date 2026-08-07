@@ -14,8 +14,13 @@
 * Overview of SAP ERP architecture and navigating the SAP GUI.
 * Core concepts of Material Management: Organization Structures (Plant, Storage Location, Purchasing Org).
 
-### Laptop Onboarding & Device Compliance Challenges
-* **Onboarding & Setup:** Around early March, joined my UST batchmates during the in-person laptop distribution phase at the BGC office to configure our enterprise devices, security compliances, VPN tools, and the SAP GUI installation.
+### Phase 1: Self-Paced SAP Foundations (Late Junuary – February)
+* **Personal Laptop Setup:** Spent the initial phase from late January through February focusing on foundational knowledge using my personal computer.
+* **Self-Paced Learning Modules:** Completed online coursework covering general SAP ERP architectures, end-to-end business processes, and core supply chain fundamentals.
+* **Certifications & Badges Progress:** Worked through self-study materials that laid the groundwork for earning preliminary SAP digital badges and course completion milestones before transitioning to hands-on system configurations.
+
+### Laptop Onboarding & Device Compliance Challenges (Early March)
+* **Onboarding & Setup:** Joined my UST batchmates during the in-person laptop distribution phase at the BGC office to configure our enterprise devices, security compliances, VPN tools, and the SAP GUI installation.
 * **Compliance Issues:** Thru March to May, a major hurdle for many of my fellow delegates was maintaining **device compliance status**. Several friends faced non-compliant status triggers, on which most do not understand how they got such issues.
 * **Resolution:** My classmates pushed into raising their concern into team members and local IT support to troubleshoot to clear non-compliant flags to secure full SAP system access. Some cases took days and sometimes a few weeks, which I felt a huge hurdle into completing their weekly designated tasks.
 
@@ -35,6 +40,10 @@
 
 > Almost close to no issues regards to laptop, just that one time I lose my charger in UST library once, and I have to resort to alternatives such as thunderbolt charger that works (charges slowly, but enough voltage to increase the percentage) for weeks then of course I have to buy a charger to avoid lose peripheral fees. I have to go Gilmore to ensure I can buy one, got a deal worth 900 bye money. Thankfully, the new laptop charger was accepted on my returning of laptop, then by then become finally done with the internship with Accenture.
 
+### Phase 2: Specialized SAP MM Track & Remote Bootcamp (March – May)
+* **Track Specialization:** Officially transitioned into the specialized SAP Material Management (MM) track, executing real-world enterprise scenarios on our newly configured enterprise laptops.
+* **Live Bootcamp Sessions:** Participated in fully remote, mentor-led bootcamp discussions and deep dives focused on procurement workflows, inventory management, and system navigation.
+* **Hands-On Configuration:** Applied theoretical knowledge directly in the SAP GUI, practicing core transaction codes and end-to-end supply chain processes under guidance from mentors.
 ---
 
 ## 3. Core Technical Exposure & Tasks
@@ -60,6 +69,7 @@
 * **Key Lessons Learned:** [What you learned about enterprise software, consulting, or personal productivity]
 
 ---
+
 ## 6. Final Day Presentation (3rd to 4th week of May)
 ![Final Presentation](https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/DemoSamplePic_AccentureBootcamp.jpg)
 <p align="center"><em>A preview of how the final demo works.</em></p>
