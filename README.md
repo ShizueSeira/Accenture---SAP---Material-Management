@@ -166,6 +166,8 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
   <em>Final Day of Bootcamp Pic @ Online</em>
 </p>
 
+> 📣 **Shoutout:** Huge thanks to our mentors Sir Bembol and Sir Jemuel for guiding us throughout the bootcamp, as well as my fellow SAP MM delegates! Especially my 4CSE gang (Nigel, James, Jaiddie, JV, Rei, Tonido) we were the half of SCM MM hahaha glad to have the journey w/ yall and rooting for y'all well futures too. :> Journey felt quick, the one you feel endless trying to learn, troubleshoot, and executing core procurement workflows comes suddenly to a completion.
+
 ---
 
 ## 📸 Random Internship Journey Pics
