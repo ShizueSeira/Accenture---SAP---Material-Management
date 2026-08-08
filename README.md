@@ -1,7 +1,7 @@
-# Internship Experience: Accenture - SAP Material Management
+<h1 align="center">Internship Experience: Accenture - SAP Material Management</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-SAP_MM_Delegate-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-SAP_MM_Intern-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Company-Accenture-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Duration-Jan_--_May_2026-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Track-SCM_--_Material_Management-darkgreen?style=for-the-badge" />
