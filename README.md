@@ -1,5 +1,12 @@
 # Internship Experience: Accenture - SAP Material Management
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-SAP_MM_Delegate-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-Accenture-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Duration-Jan_--_May_2026-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Track-SCM_--_Material_Management-darkgreen?style=for-the-badge" />
+</p>
+
 ## 1. Overview & Objectives
 * **Role:** SAP Material Management (MM) Intern
 * **Company:** Accenture
@@ -37,15 +44,16 @@
 
 ## 📸 Captured Laptop Issues
 
-<p align="center">
-  <img src="./Issue1_AccentureLaptop.jpg" width="220" alt="Issue 1"/>
-  <img src="./Issue2_AccentureLaptop.jpg" width="220" alt="Issue 2"/>
-  <img src="./Issue3_AccentureLaptop.jpg" width="320" alt="Issue 3"/><br>
-  <em>Accenture Laptop Setup Issues (Windows Hello, Account Disabled, and Resource Access)</em>
-</p>
+| Issue 1 | Issue 2 | Issue 3 |
+| :---: | :---: | :---: |
+| <img src="./Issue1_AccentureLaptop.jpg" width="220" alt="Issue 1"/> | <img src="./Issue2_AccentureLaptop.jpg" width="220" alt="Issue 2"/> | <img src="./Issue3_AccentureLaptop.jpg" width="320" alt="Issue 3"/> |
+
+<p align="center"><em>Accenture Laptop Setup Issues (Windows Hello, Account Disabled, and Resource Access)</em></p>
 
 ### Phase 1 Personal Reflection
 
+> [!NOTE]
+> **Initial Adjustment & Routine**  
 > A little bit of shock as my first internship experience, so each day I take pretty seriously and take the respective times at least 3 hours a day. Then a matter of weeks, internship works becomes a routine that helps me lessens my nervousness. As well asking and checking up on my fellow delegates gives me a sign of relief, we do face challenges and struggles while cherishing the opportunity we had this time.
 
 > Personally I did not experience this kind of problem, I do always regularly check my accenture emails regularly weekly (and not get an inactivity status that can possibly lock out the laptop too). Made sure that I do not miss any requirements mentioned by the accenture HRs as well from our mentions before a mentioned deadline.
@@ -57,14 +65,17 @@
 * **Live Bootcamp Sessions:** Participated in fully remote, mentor-led bootcamp discussions and deep dives focused on procurement workflows, inventory management, and system navigation.
 * **Hands-On Configuration:** Applied theoretical knowledge directly in the SAP GUI, practicing core transaction codes and end-to-end supply chain processes under guidance from mentors.
 
-## SAP Learning Platform Taken Courses for Phase 2
+<details>
+<summary><b>🖼️ Click to view SAP Learning Platform Taken Courses for Phase 2</b></summary>
 
+<br>
 <p align="center">
   <img src="./AccomplishedCourses2_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 2"/><br><br>
   <img src="./AccomplishedCourses3_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 3"/><br><br>
   <img src="./AccomplishedCourses4_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 4"/><br><br>
   <em>SAP Learning modules completion for phase 2</em>
 </p>
+</details>
 
 ## 📸 Phase 2 Experience & Learning Setup
 
@@ -73,6 +84,7 @@
 </p>
 
 That one time when I thought we were already done with configuring our working laptops, turns out it was not confirming when we were on the ground already so we decided to not turn back. SO unfortunately, the following week I have to go back in BGC to comply to complete the config process.
+
 <p align="center">
   <img src="./SAPModulesSelfPaced_Accenture.jpg" width="600" alt="SAP Modules Self Paced"/><br>
 </p>
@@ -89,19 +101,23 @@ The instruction PDFs involves above shows how to make a specific process, easy t
 
 <br>
 
+> [!TIP]
+> **Smart Note Taking Strategy**  
+> When some of the process are done, they provide a number from the concluded transaction, which is needed for the next transaction process. Thus, as we are practicing, we are told to always save the IDs at least in a notepad or any place we can remember. Altough sometimes forgetting you have to save, there was no worry as our mentors taught us still a way on where to find the recent transactions ID details.
+
 <p align="center">
   <img src="./SmartTaking_Accenture.jpg" width="600" alt="Smart Note Taking"/><br>
 </p>
 
-When some of the process are done, they provide a number from the concluded transaction, which is needed for the next transaction process. Thus, as we are practicing, we are told to always save the IDs at least in a notepad or any place we can remember. Altough sometimes forgetting you have to save, there was no worry as our mentors taught us still a way on where to find the recent transactions ID details.
-
 <br>
+
+> [!WARNING]
+> **Connection Stability Alert**  
+> A smooth internet connection is required in order to continue with the SAP GUI, as I was doing the modules in school there are times my connections is getting interrupted due to weak signal around the UST Buenavides library. I just wanted to get more tasks done, tough I can also preferably do in home so I won't experience any problems like the picture above. Just one weak signal, a pop-up immediately closes that is irreversible to close the whole SAP GUI progress you are currently having.
 
 <p align="center">
   <img src="./ConnectionProblems_Accenture.jpg" width="600" alt="Connection Problems"/><br>
 </p>
-
-A smooth internet connection is required in order to continue with the SAP GUI, as I was doing the modules in school there are times my connections is getting interrupted due to weak signal around the UST Buenavides library. I just wanted to get more tasks done, tough I can also preferably do in home so I won't experience any problems like the picture above. Just one weak signal, a pop-up immediately closes that is irreversible to close the whole SAP GUI progress you are currently having.
 <br>
 
 ### Phase 2 Personal Reflection
@@ -119,13 +135,23 @@ A smooth internet connection is required in order to continue with the SAP GUI, 
 * **Mentor Review & Verification:** Progress reports were regularly submitted to our track mentors (Sir Bembol and Sir JM) to verify course completion badges, validate SAP GUI practice transaction IDs, and ensure alignment with the required internship hours.
 * **Performance Checkpoints:** Periodic reviews served as verification steps before advancing to complex SAP MM configuration exercises and allowed mentors to identify delegates who needed extra assistance or system troubleshooting.
 
+> [!IMPORTANT]
 > 📄 **Sample Work Progress Report (WPR):**  
 > View a sample submitted report (template provided by UST) detailing weekly task tracking and verified SAP module progress:  
 > [**WPR_Example_Accenture.pdf**](https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/WPR_Example_Accenture.pdf)
 
 ---
 
-## 3. Core Technical Exposure & Tasks
+## 3. Core Technical Exposure & Tasks <kbd>SAP GUI S/4HANA</kbd>
+
+```mermaid
+flowchart LR
+    A[Material & Vendor Master] --> B[Purchase Requisition - PR]
+    B --> C[Purchase Order - PO]
+    C --> D[Goods Receipt - GR]
+    D --> E[Invoice Verification - IV]
+```
+
 ### SAP MM Processes Handled
 * **Material Master & Vendor Master Data:** Maintained master records for direct materials, consumable goods, and service items. Understood enterprise hierarchies by mapping parameters to Company Codes, Plants, Storage Locations, and Purchasing Organizations.
 * **Procurement Cycle (Procure-to-Pay):** Practiced the sequential execution of the core procurement workflow in the SAP GUI, raising Purchase Requisitions (PR) and converting them into Purchase Orders (PO) while tracking transaction IDs across sessions.
@@ -163,6 +189,7 @@ Our final task after completion of self-paced modules as well the bootcamp discu
 
 Was a little nervous, as I was one of the first ones to do the demo, I was trying my best to remain executing the right processes and commands, and thankfully we persevered hahaha, and what we left was to support my fellow delegates into completing their demos too.
 
+> [!NOTE]
 > 📊 **Proof of Execution**  
 > Proof of generated SAP transaction IDs here sample:  
 > [**Inventado - Demo IDs.xlsx**](https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/Inventado%20-%20Demo%20IDs.xlsx)
@@ -171,17 +198,10 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
 
 ## 📸 Internship Highlights Pics
 
-<p align="center">
-  <img src="./AccentureBGCBuilding_SelfPic.jpg" width="350" alt="Rare Company Selfie"/><br>
-  <em>Matchy with the room color @ Accenture BGC Taguig</em>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="./SAPMMBootcamp_Final_Day_Picture.jpg" width="600" alt="SAP MM Bootcamp"/><br>
-  <em>Final Day of Bootcamp Pic @ Online</em>
-</p>
+| BGC Office Selfie | Final Day Bootcamp |
+| :---: | :---: |
+| <img src="./AccentureBGCBuilding_SelfPic.jpg" width="350" alt="Rare Company Selfie"/> | <img src="./SAPMMBootcamp_Final_Day_Picture.jpg" width="500" alt="SAP MM Bootcamp"/> |
+| *Matchy with the room color @ Accenture BGC Taguig* | *Final Day of Bootcamp Pic @ Online* |
 
 > 📣 **Shoutout:** Huge thanks to our mentors Sir Bembol and Sir Jemuel for guiding us throughout the bootcamp, as well as my fellow SAP MM delegates! Especially my 4CSE gang (Nigel, James, Jaiddie, JV, Rei, Tonido) we were the half of SCM MM hahaha glad to have the journey w/ yall and rooting for y'all well futures too. :> Journey felt quick, the one you feel endless trying to learn, troubleshoot, and executing core procurement workflows comes suddenly to a completion.
 
@@ -189,25 +209,15 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
 
 ## 📸 Random Internship Journey Pics
 
-<p align="center">
-  <img src="./MeAndFriends_Accenture.jpg" width="600" alt="Pic with friends setting-up their laptops too"/><br>
-  <em>Laptop set-up with fellow UST friends</em>
-</p>
+| Laptop Setup with Friends | Final Setup |
+| :---: | :---: |
+| <img src="./MeAndFriends_Accenture.jpg" width="400" alt="Pic with friends setting-up their laptops too"/> | <img src="./LaptopSetUp_Accenture.jpg" width="400" alt="Almost Complete Laptop Set-up"/> |
+| *Laptop set-up with fellow UST friends* | *Laptop Set-up* |
 
-<p align="center">
-  <img src="./LaptopSetUp_Accenture.jpg" width="600" alt="Almost Complete Laptop Set-up"/><br>
-  <em>Laptop Set-up</em>
-</p>
-
-<p align="center">
-  <img src="./MeAndMyLaptop_Accenture.jpg" width="600" alt="Top view of laptop with me"/><br>
-  <em>Me and my laptop</em>
-</p>
-
-<p align="center">
-  <img src="./DangIWantAccentureID_Accenture.jpg" width="600" alt="I don't have Accenture ID"/><br>
-  <em>We need a visitor pass to enter Accenture floors</em>
-</p>
+| Workstation Overview | Building Access |
+| :---: | :---: |
+| <img src="./MeAndMyLaptop_Accenture.jpg" width="400" alt="Top view of laptop with me"/> | <img src="./DangIWantAccentureID_Accenture.jpg" width="400" alt="I don't have Accenture ID"/> |
+| *Me and my laptop* | *We need a visitor pass to enter Accenture floors* |
 
 ---
 
@@ -220,10 +230,14 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
 * **[Exploring End-to-End Business Processes in SAP Business Suite](https://badger.learning.sap.com/verify/xekop-cecon-nenyg-hyged-tamuc)**
 * **[Managing Clean Core for SAP Cloud ERP](https://badger.learning.sap.com/verify/xedog-gagik-haheh-rifym-gicyp)**
 
-#### 📚 Phase 1 Completed Learning Modules (Non-Badged)
+<details>
+<summary><b>📚 Click to view Phase 1 Completed Learning Modules (Non-Badged)</b></summary>
+
 * Discovering the Persona View of the SAP Business Suite Buying Centers
 * Introducing SAP's Core Business Processes, SAP for Industries and the SAP Partner Network
 * [Executing Basic ERP Processes with SAP S/4HANA](https://learning.sap.com/courses/executing-basic-erp-processes-with-sap-s-4hana)
+
+</details>
 
 ---
 
@@ -233,7 +247,9 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
 * **[Procurement Process Overview](https://badger.learning.sap.com/verify/xafes-berir-pimid-pytyn-kiluk)**
 * **[Experiencing Supply Chain Business Scenarios in SAP S/4HANA Cloud Public Edition](https://badger.learning.sap.com/verify/xuvom-sigat-furop-pudud-pufuc)**
 
-#### 📚 Phase 2 Completed Learning Modules (Non-Badged)
+<details>
+<summary><b>📚 Click to view Phase 2 Completed Learning Modules (Non-Badged)</b></summary>
+
 * [Discovering the Basics of SAP S/4HANA Manufacturing](https://learning.sap.com/courses/discovering-the-basics-of-s-4hana-manufacturing)
 * [Exploring Business Processes in SAP S/4HANA Production Planning](https://learning.sap.com/courses/exploring-business-processes-in-sap-s-4hana-production-planning)
 * [Detailing Service Purchasing and Recording](https://learning.sap.com/courses/detailing-service-purchasing-and-recording)
@@ -246,6 +262,8 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
 * [Detailing Requisitioning and Consumable Purchasing](https://learning.sap.com/courses/detailing-requisitioning-and-consumable-purchasing)
 * [Describing the Foundations for Sourcing and Procurement](https://learning.sap.com/courses/describing-the-foundations-for-sourcing-and-procurement)
 * [Implementing SAP S/4HANA Cloud Public Edition](https://learning.sap.com/courses/implementing-sap-s-4hana-cloud-public-edition)
+
+</details>
 
 ---
 
