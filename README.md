@@ -45,6 +45,9 @@
 </p>
 
 ### Phase 1 Personal Reflection
+
+> A little bit of shock as my first internship experience, so each day I take pretty seriously and take the respective times at least 3 hours a day. Then a matter of weeks, internship works becomes a routine that helps me lessens my nervousness. As well asking and checking up on my fellow delegates gives me a sign of relief, we do face challenges and struggles while cherishing the opportunity we had this time.
+
 > Personally I did not experience this kind of problem, I do always regularly check my accenture emails regularly weekly (and not get an inactivity status that can possibly lock out the laptop too). Made sure that I do not miss any requirements mentioned by the accenture HRs as well from our mentions before a mentioned deadline.
 
 > Configuration was a matter of following instructions, understand those clear and you can go flow smoothly to complete the config process.
@@ -74,7 +77,7 @@ That one time when I thought we were already done with configuring our working l
   <img src="./SAPModulesSelfPaced_Accenture.jpg" width="600" alt="SAP Modules Self Paced"/><br>
 </p>
 
-The SAP GUI guides us thru a series of modules, whereas most modules involves after reading have a short quiz or enumeration of the correct sequential steps (ranging from 4-7 steps) on which can be sometimes feel repetetive but that is what we have should been used to, to execute commands you feel like a muscle memory without any hesitations on mind. Sometimes short quizzes can be brute forced as well, tough reading is valuable as knowledge I retain can be applied 
+The SAP GUI guides us thru a series of modules, whereas most modules involves after reading have a short quiz or enumeration of the correct sequential steps (ranging from 4-7 steps) on which can be sometimes feel repetetive but that is what we have should been used to, to execute commands you feel like a muscle memory without any hesitations on mind. Sometimes short quizzes can be brute forced as well, tough reading is valuable as knowledge I retain can be applied in future ahead in my career.
 
 <br>
 
@@ -82,7 +85,7 @@ The SAP GUI guides us thru a series of modules, whereas most modules involves af
   <img src="./InstructionPDFs_Accenture.jpg" width="600" alt="Instruction PDFs"/><br>
 </p>
 
-[Write your description here regarding how you used the instruction PDFs and guides provided during the bootcamp]
+The instruction PDFs involves above shows how to make a specific process, easy to understand and you just have to follow the order it was mentioned. Other details in PDF files also includes background of the specific topic currently focused on. Doing these takes a while, a challenging cycle which can be worthwile once you get used to these.
 
 <br>
 
@@ -90,7 +93,7 @@ The SAP GUI guides us thru a series of modules, whereas most modules involves af
   <img src="./SmartTaking_Accenture.jpg" width="600" alt="Smart Note Taking"/><br>
 </p>
 
-[Write your description here regarding your smart note-taking strategies and how you organized information]
+When some of the process are done, they provide a number from the concluded transaction, which is needed for the next transaction process. Thus, as we are practicing, we are told to always save the IDs at least in a notepad or any place we can remember. Altough sometimes forgetting you have to save, there was no worry as our mentors taught us still a way on where to find the recent transactions ID details.
 
 <br>
 
@@ -98,13 +101,14 @@ The SAP GUI guides us thru a series of modules, whereas most modules involves af
   <img src="./ConnectionProblems_Accenture.jpg" width="600" alt="Connection Problems"/><br>
 </p>
 
-[Write your description here regarding system connectivity or network challenges encountered during Phase 2]
-
+A smooth internet connection is required in order to continue with the SAP GUI, as I was doing the modules in school there are times my connections is getting interrupted due to weak signal around the UST Buenavides library. I just wanted to get more tasks done, tough I can also preferably do in home so I won't experience any problems like the picture above. Just one weak signal, a pop-up immediately closes that is irreversible to close the whole SAP GUI progress you are currently having.
 <br>
 
 ### Phase 2 Personal Reflection
 
 > Sir Bembol and Sir JM, as our SCM track advisers are very accomodating and patient into answering our inquiries in the bootcamp phase. They do really persuade us to focus on what they are teaching, the steps what we can say is intricate for us who has just recently tried SAP they did execute flawlessly. Even them can make them mistakes on process, but what makes them good really comes with the way they test and debug what is going on, and still able to explain to us what they have shouldn't and should have do. Countless recitations, of course our number could be counted by hand (always around 10) so there is been high familiarity between us. Honestly I was one of the most called students hahaha, Sir Bembol always do remember me I'll miss him. (thankfully he deserved going to better opportunities now outside from Accenture, proud of Sir!)
+
+> We delegates were bound to help each other as our mentors says, even if we get done first, we should help those who are behind because you are working as a team that each one do understand their team's current project progress and able to comprehend and explain their concerns from peers to the clients.
 
 > Almost close to no issues regards to laptop, just that one time I lose my charger in UST library once, and I have to resort to alternatives such as thunderbolt charger that works (charges slowly, but enough voltage to increase the percentage) for weeks then of course I have to buy a charger to avoid lose peripheral fees. I have to go Gilmore to ensure I can buy one, got a deal worth 900 bye money. Thankfully, the new laptop charger was accepted on my returning of laptop, then by then become finally done with the internship with Accenture.
 
