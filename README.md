@@ -40,7 +40,7 @@
 <p align="center">
   <img src="./Issue1_AccentureLaptop.jpg" width="220" alt="Issue 1"/>
   <img src="./Issue2_AccentureLaptop.jpg" width="220" alt="Issue 2"/>
-  <img src="./Issue3_AccentureLaptop.jpg" width="220" alt="Issue 3"/><br>
+  <img src="./Issue3_AccentureLaptop.jpg" width="320" alt="Issue 3"/><br>
   <em>Accenture Laptop Setup Issues (Windows Hello, Account Disabled, and Resource Access)</em>
 </p>
 
@@ -127,25 +127,31 @@ A smooth internet connection is required in order to continue with the SAP GUI, 
 
 ## 3. Core Technical Exposure & Tasks
 ### SAP MM Processes Handled
-* **Material Master & Vendor Master Data:** [Describe your experience managing or testing master data]
-* **Procurement Cycle:** [Detail work related to Purchase Requisitions, Purchase Orders, and Quotations]
-* **Inventory & Invoice Verification:** [Detail work related to Goods Receipt, Goods Issue, or Invoice Matching]
+* **Material Master & Vendor Master Data:** Maintained master records for direct materials, consumable goods, and service items. Understood enterprise hierarchies by mapping parameters to Company Codes, Plants, Storage Locations, and Purchasing Organizations.
+* **Procurement Cycle (Procure-to-Pay):** Practiced the sequential execution of the core procurement workflow in the SAP GUI, raising Purchase Requisitions (PR) and converting them into Purchase Orders (PO) while tracking transaction IDs across sessions.
+* **Inventory & Invoice Verification:** Completed sequential steps for posting Goods Receipts (GR) against active POs and executing Invoice Verification (IV) to simulate three-way matching in supply chain operations.
+* **Specialized Procurement & Analytics:** Explored advanced modules covering subcontracting, supplier consignment, service purchasing, sourcing contracts, and cloud procurement analytics on SAP S/4HANA.
 
 ### Challenges Overcome
-* [Describe a specific problem or technical issue you faced and how you solved it]
+* **Session Drops & Lost GUI Data:** Network drops at the UST library frequently severed active SAP GUI server connections, force-closing open transaction windows. Solved this by adopting structured ID logging in local text files and learning SAP lookup methods to retrieve prior transaction IDs without redoing prerequisite steps.
+* **Sequential Error Debugging:** Experienced step-mismatch errors during live bootcamp recitations. Learned directly from mentors how to trace system diagnostic messages, verify organizational units, and fix input values rather than restarting workflows.
+* **Hardware & Compliance Recovery:** Resolved an unexpected BGC office trip requirement for enterprise laptop configuration compliance and managed hardware losses independently by sourcing a compliant charger at Gilmore to avoid peripheral penalty fees upon laptop return.
 
 ---
 
 ## 4. Professional Development & Soft Skills
-* **Cross-Team Collaboration:** Working alongside functional consultants and business analysts.
-* **Problem-Solving:** How I approached debugging errors or troubleshooting system workflows.
-* **Communication:** Presenting updates during daily standups or team syncs.
+* **Cross-Team Collaboration:** Built strong peer support networks with fellow UST delegates and the "4CSE gang," establishing daily check-ins to troubleshoot device compliance issues, share instruction notes, and assist trailing peers.
+* **Problem-Solving & System Diagnostics:** Shifted from rote execution to critical thinking by watching mentors test and debug errors live during bootcamp sessions, adopting structured troubleshooting for GUI parameter mismatches.
+* **Communication & Technical Presentations:** Built confidence during frequent mentor recitations and live presentation sessions, culminating in successfully executing and explaining the end-to-end P2P cycle during the final live demo.
 
 ---
 
 ## 5. Major Highlights & Takeaways
-* **Biggest Accomplishment:** [e.g., Successfully assisting in unit testing, creating documentation, or automating a task]
-* **Key Lessons Learned:** [What you learned about enterprise software, consulting, or personal productivity]
+* **Biggest Accomplishment:** Successfully passing the live demonstration on the first attempt by executing all four core SAP MM transactions (PR $\rightarrow$ PO $\rightarrow$ GR $\rightarrow$ IV) smoothly, followed by earning the official **SAP Certified Implementation Consultant** certification and 6 digital badges.
+* **Key Lessons Learned:**
+  * *Team Accountability:* Software implementation and consulting are team efforts—a project's success relies on every member understanding the overall progress and helping peers resolve bottlenecks.
+  * *Operational Precision:* In enterprise software, details matter. Meticulous documentation, systematic note-taking (saving transaction IDs), and understanding *why* a step is executed build long-term retention over simple rote completion.
+  * *Adaptability:* Navigating sudden hardware compliance hurdles, VPN drops, and remote learning required resilience and proactive time management.
 
 ---
 
