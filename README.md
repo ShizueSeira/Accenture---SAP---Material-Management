@@ -114,6 +114,17 @@ A smooth internet connection is required in order to continue with the SAP GUI, 
 
 ---
 
+### 📊 Work Progress Report & Verification System
+* **Weekly Progress Reports (WPR):** Documented weekly output, total rendered hours, completed SAP Learning modules, and transaction execution logs into standardized Work Progress Report templates.
+* **Mentor Review & Verification:** Progress reports were regularly submitted to our track mentors (Sir Bembol and Sir JM) to verify course completion badges, validate SAP GUI practice transaction IDs, and ensure alignment with the required internship hours.
+* **Performance Checkpoints:** Periodic reviews served as verification steps before advancing to complex SAP MM configuration exercises and allowed mentors to identify delegates who needed extra assistance or system troubleshooting.
+
+> 📄 **Sample Work Progress Report (WPR):**  
+> View a sample submitted report (template provided by UST) detailing weekly task tracking and verified SAP module progress:  
+> [**WPR_Example_Accenture.pdf**](https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/WPR_Example_Accenture.pdf)
+
+---
+
 ## 3. Core Technical Exposure & Tasks
 ### SAP MM Processes Handled
 * **Material Master & Vendor Master Data:** [Describe your experience managing or testing master data]
