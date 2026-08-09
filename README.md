@@ -33,7 +33,7 @@
 ## SAP Learning Platform Taken Courses for Phase 1
 
 <p align="center">
-  <img src="./AccomplishedCourses1_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 1"/><br><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/SAP%20Learning%20Platform%20Taken%20Courses/AccomplishedCourses1_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 1"/><br><br>
   <em>SAP Learning modules completion for phase 1</em>
 </p>
 
@@ -46,7 +46,7 @@
 
 | Issue 1 | Issue 2 | Issue 3 |
 | :---: | :---: | :---: |
-| <img src="./Issue1_AccentureLaptop.jpg" width="220" alt="Issue 1"/> | <img src="./Issue2_AccentureLaptop.jpg" width="220" alt="Issue 2"/> | <img src="./Issue3_AccentureLaptop.jpg" width="320" alt="Issue 3"/> |
+| <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Laptop%20Issue%20Samples/Issue1_AccentureLaptop.jpg" width="220" alt="Issue 1"/> | <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Laptop%20Issue%20Samples/Issue2_AccentureLaptop.jpg" width="220" alt="Issue 2"/> | <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Laptop%20Issue%20Samples/Issue3_AccentureLaptop.jpg" width="320" alt="Issue 3"/> |
 
 <p align="center"><em>Accenture Laptop Setup Issues (Windows Hello, Account Disabled, and Resource Access)</em></p>
 
@@ -70,9 +70,9 @@
 
 <br>
 <p align="center">
-  <img src="./AccomplishedCourses2_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 2"/><br><br>
-  <img src="./AccomplishedCourses3_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 3"/><br><br>
-  <img src="./AccomplishedCourses4_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 4"/><br><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/SAP%20Learning%20Platform%20Taken%20Courses/AccomplishedCourses2_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 2"/><br><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/SAP%20Learning%20Platform%20Taken%20Courses/AccomplishedCourses3_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 3"/><br><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/SAP%20Learning%20Platform%20Taken%20Courses/AccomplishedCourses4_SAPLearning_Accenture.jpg" width="800" alt="SAP Learning 4"/><br><br>
   <em>SAP Learning modules completion for phase 2</em>
 </p>
 </details>
@@ -80,13 +80,13 @@
 ## 📸 Phase 2 Experience & Learning Setup
 
 <p align="center">
-  <img src="./OuchGoingBack_Accenture.jpg" width="600" alt="Phase 1 Challenge / Retaking Experience"/><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Phase%202%20Images%20-%20Bootcamp/OuchGoingBack_Accenture.jpg" width="600" alt="Phase 1 Challenge / Retaking Experience"/><br>
 </p>
 
 That one time when I thought we were already done with configuring our working laptops, turns out it was not confirming when we were on the ground already so we decided to not turn back. SO unfortunately, the following week I have to go back in BGC to comply to complete the config process.
 
 <p align="center">
-  <img src="./SAPModulesSelfPaced_Accenture.jpg" width="600" alt="SAP Modules Self Paced"/><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Phase%202%20Images%20-%20Bootcamp/SAPModulesSelfPaced_Accenture.jpg" width="600" alt="SAP Modules Self Paced"/><br>
 </p>
 
 The SAP GUI guides us thru a series of modules, whereas most modules involves after reading have a short quiz or enumeration of the correct sequential steps (ranging from 4-7 steps) on which can be sometimes feel repetetive but that is what we have should been used to, to execute commands you feel like a muscle memory without any hesitations on mind. Sometimes short quizzes can be brute forced as well, tough reading is valuable as knowledge I retain can be applied in future ahead in my career.
@@ -94,7 +94,7 @@ The SAP GUI guides us thru a series of modules, whereas most modules involves af
 <br>
 
 <p align="center">
-  <img src="./InstructionPDFs_Accenture.jpg" width="600" alt="Instruction PDFs"/><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Phase%202%20Images%20-%20Bootcamp/InstructionPDFs_Accenture.jpg" width="600" alt="Instruction PDFs"/><br>
 </p>
 
 The instruction PDFs involves above shows how to make a specific process, easy to understand and you just have to follow the order it was mentioned. Other details in PDF files also includes background of the specific topic currently focused on. Doing these takes a while, a challenging cycle which can be worthwile once you get used to these.
@@ -106,7 +106,7 @@ The instruction PDFs involves above shows how to make a specific process, easy t
 > When some of the process are done, they provide a number from the concluded transaction, which is needed for the next transaction process. Thus, as we are practicing, we are told to always save the IDs at least in a notepad or any place we can remember. Altough sometimes forgetting you have to save, there was no worry as our mentors taught us still a way on where to find the recent transactions ID details.
 
 <p align="center">
-  <img src="./SmartTaking_Accenture.jpg" width="600" alt="Smart Note Taking"/><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Phase%202%20Images%20-%20Bootcamp/SmartTaking_Accenture.jpg" width="600" alt="Smart Note Taking"/><br>
 </p>
 
 <br>
@@ -116,7 +116,7 @@ The instruction PDFs involves above shows how to make a specific process, easy t
 > A smooth internet connection is required in order to continue with the SAP GUI, as I was doing the modules in school there are times my connections is getting interrupted due to weak signal around the UST Buenavides library. I just wanted to get more tasks done, tough I can also preferably do in home so I won't experience any problems like the picture above. Just one weak signal, a pop-up immediately closes that is irreversible to close the whole SAP GUI progress you are currently having.
 
 <p align="center">
-  <img src="./ConnectionProblems_Accenture.jpg" width="600" alt="Connection Problems"/><br>
+  <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Laptop%20Issue%20Samples/ConnectionProblems_Accenture.jpg" width="600" alt="Connection Problems"/><br>
 </p>
 <br>
 
@@ -182,7 +182,7 @@ flowchart LR
 ---
 
 ## 6. Final Day Presentation (3rd to 4th week of May)
-![Final Presentation](https://github.com/ShizueSeira/Accenture---SAP---Material-Management-/blob/main/DemoSamplePic_AccentureBootcamp.jpg)
+![Final Presentation](https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Phase%202%20Images%20-%20Bootcamp/DemoSamplePic_AccentureBootcamp.jpg)
 <p align="center"><em>A preview of how the final demo works.</em></p>
 
 Our final task after completion of self-paced modules as well the bootcamp discussions, we have to live demonstrate to our mentors Sir Bembol and Sir Jemuel the four core basic processes in SAP MM (Purchase Requisition, Purchase Order, Goods Receipt, and Invoice Verification).
@@ -200,7 +200,7 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
 
 | BGC Office Selfie | Final Day Bootcamp |
 | :---: | :---: |
-| <img src="./AccentureBGCBuilding_SelfPic.jpg" width="350" alt="Rare Company Selfie"/> | <img src="./SAPMMBootcamp_Final_Day_Picture.jpg" width="500" alt="SAP MM Bootcamp"/> |
+| <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Internship%20Highlights%20Pics/AccentureBGCBuilding_SelfPic.jpg" width="350" alt="Rare Company Selfie"/> | <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Internship%20Highlights%20Pics/SAPMMBootcamp_Final_Day_Picture.jpg" width="500" alt="SAP MM Bootcamp"/> |
 | *Matchy with the room color @ Accenture BGC Taguig* | *Final Day of Bootcamp Pic @ Online* |
 
 > 📣 **Shoutout:** Huge thanks to our mentors Sir Bembol and Sir Jemuel for guiding us throughout the bootcamp, as well as my fellow SAP MM delegates! Especially my 4CSE gang (Nigel, James, Jaiddie, JV, Rei, Tonido) we were the half of SCM MM hahaha glad to have the journey w/ yall and rooting for y'all well futures too. :> Journey felt quick, the one you feel endless trying to learn, troubleshoot, and executing core procurement workflows comes suddenly to a completion.
@@ -211,12 +211,12 @@ Was a little nervous, as I was one of the first ones to do the demo, I was tryin
 
 | Laptop Setup with Friends | Final Setup |
 | :---: | :---: |
-| <img src="./MeAndFriends_Accenture.jpg" width="400" alt="Pic with friends setting-up their laptops too"/> | <img src="./LaptopSetUp_Accenture.jpg" width="400" alt="Almost Complete Laptop Set-up"/> |
+| <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Random%20Internship%20Journey%20Pics/MeAndFriends_Accenture.jpg" width="400" alt="Pic with friends setting-up their laptops too"/> | <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Random%20Internship%20Journey%20Pics/LaptopSetUp_Accenture.jpg" width="400" alt="Almost Complete Laptop Set-up"/> |
 | *Laptop set-up with fellow UST friends* | *Laptop Set-up* |
 
 | Workstation Overview | Building Access |
 | :---: | :---: |
-| <img src="./MeAndMyLaptop_Accenture.jpg" width="400" alt="Top view of laptop with me"/> | <img src="./DangIWantAccentureID_Accenture.jpg" width="400" alt="I don't have Accenture ID"/> |
+| <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Random%20Internship%20Journey%20Pics/MeAndMyLaptop_Accenture.jpg" width="400" alt="Top view of laptop with me"/> | <img src="https://github.com/ShizueSeira/Accenture---SAP---Material-Management/blob/main/Random%20Internship%20Journey%20Pics/DangIWantAccentureID_Accenture.jpg" width="400" alt="I don't have Accenture ID"/> |
 | *Me and my laptop* | *We need a visitor pass to enter Accenture floors* |
 
 ---
